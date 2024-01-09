@@ -1,3 +1,3 @@
 # Calculator
 
-https://othei26.github.io/Calculator/
+https://maiker260.github.io/Calculator/
